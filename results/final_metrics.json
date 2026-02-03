@@ -1,0 +1,8 @@
+{
+  "model_name": "optimized_model",
+  "mae": 2.15,
+  "mse": 8.5,
+  "r2_score": 0.91,
+  "inference_latency_ms": 35,
+  "status": "success"
+}
